@@ -10,7 +10,7 @@ Ventas por categoría: Se analiza la cantidad de productos vendidos por categor�
 Calificación promedio de la tienda: Se calcula la calificación promedio de los clientes para cada tienda como un indicador de satisfacción del cliente.
 Productos más y menos vendidos: Se identifican los productos con mayor y menor volumen de ventas en cada tienda y en general.
 Envío promedio por tienda: Se calcula el costo promedio de envío para cada tienda para evaluar su impacto en la rentabilidad y la satisfacción del cliente.
-Análisis del desempeño geográfico: Se visualiza la distribución geográfica de las ventas utilizando datos de latitud y longitud para identificar patrones y su influencia en el rendimiento de las tiendas y las calificaciones de los clientes.
+Análisis del desempeño geográfico: Se visualiza la distribución geográfica de las ventas utilizando datos de latitud y longitud para identificar patrones y su influencia en el rendimiento de las tiendas y las calificaciones de los clientes. 
 
 # Hallazgos clave
 La Tienda 1 generó los ingresos totales más altos, lo que sugiere el mayor potencial de facturación.
